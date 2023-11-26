@@ -19,5 +19,8 @@
     "nodemailer": "^6.9.7",
     "redis": "^4.6.11",
     "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": "20.9.0"
   }
 }
